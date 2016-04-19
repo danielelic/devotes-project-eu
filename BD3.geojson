@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                                                                  
+"features": [
+{ "type": "Feature", "properties": { "AREA": 0.632154, "idnumber": "p1656", "CorrectDiv": -0.663804, "UniqueSpec": "2", "TotalSamps": "10", "CorrectEff": 1.323464, "AREA_2": "C. Black Sea", "REGION": "C_9.  non-EU" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 35.102651727588281, 45.609624433480001 ], [ 35.290038461154303, 45.609624433480001 ], [ 35.465815835450094, 45.305169090378641 ], [ 35.332204623000194, 45.371242580000086 ], [ 35.102651727588281, 45.609624433480001 ] ] ] } }
+]
+}
